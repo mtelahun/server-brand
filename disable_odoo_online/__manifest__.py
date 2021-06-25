@@ -11,4 +11,5 @@
     "data": ["views/ir_ui_menu.xml"],
     "qweb": ["static/src/xml/base.xml"],
     "installable": True,
+    "auto_install": True,
 }
